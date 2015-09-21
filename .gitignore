@@ -1,0 +1,6 @@
+*.exe
+*.txt
+java/out/
+base/*
+.idea
+*.iml
